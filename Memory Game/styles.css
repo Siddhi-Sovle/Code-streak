@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+  background-image: url("images/studyt.jpg");
+  background-size: cover;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: white;
+  margin-top: 50px;
+}
+
+.container {
+  display: block;
+  width: 100%;
+  margin: auto;
+  margin-top: 50px;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  border: 6px solid #F7EFE5;
+  border-radius: 100%;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+
+.game-over {
+  background-color: white;
+  opacity: 0.8;
+}
+
+.whats {
+
+  background-image: url("images/whats.png");
+  background-size: cover;
+  margin-left: 150px;
+}
+
+.insta{
+  background-image: url("images/insta.png");
+  background-size: cover;
+  position: absolute;
+  left: 300px;
+}
+
+.valo{
+  background-image: url("images/valo.png");
+  background-size: cover ;
+  margin-left: 200px;
+}
+
+.cofee{
+  background-image: url("images/cofee.png");
+  background-size: cover;
+  position: absolute;
+  left: 100px;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.music{
+  background-image: url("images/head.png");
+  background-size: cover;
+  position: absolute;
+  right: 150px;
+}
+
+.books{
+  background-image: url("images/books.png");
+  background-size: cover;
+  margin-left: 150px;
+}
